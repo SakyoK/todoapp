@@ -1,6 +1,6 @@
 # 締切と科目別進捗を可視化する学習タスク管理アプリ
 
-**公開URL (GitHub Pages):** https://<ユーザー名>.github.io/<リポジトリ名>/
+**公開URL (GitHub Pages):** https://SakyoK.github.io/todoapp/
 
 ![アプリ全体のスクリーンショット](./docs/main-overview.png)
 
